@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1141b8e66338426d94891ea2a1af7cc, type: 3}
+  m_Name: Data1
+  m_EditorClassIdentifier: 
+  overs:
+  - playedBalls:
+    - value: 4
+      runZone: 2
+      runLength: 4.25
+    - value: 1
+      runZone: 2
+      runLength: 7.45
+    - value: 2
+      runZone: 1
+      runLength: 3.97
+    - value: 6
+      runZone: 4
+      runLength: 10
+    - value: 3
+      runZone: 5
+      runLength: 8.53
+    - value: 1
+      runZone: 4
+      runLength: 4.8
+  - playedBalls:
+    - value: 4
+      runZone: 3
+      runLength: 5.11
+    - value: 2
+      runZone: 2
+      runLength: 6.04
+    - value: 3
+      runZone: 2
+      runLength: 5.01
+    - value: 6
+      runZone: 3
+      runLength: 10
+    - value: 1
+      runZone: 4
+      runLength: 6.69
+    - value: 6
+      runZone: 5
+      runLength: 10
+  - playedBalls:
+    - value: 4
+      runZone: 1
+      runLength: 5.11
+    - value: 2
+      runZone: 3
+      runLength: 6.04
+    - value: 3
+      runZone: 2
+      runLength: 5.01
+    - value: 6
+      runZone: 3
+      runLength: 10
+    - value: 1
+      runZone: 4
+      runLength: 6.69
+    - value: 6
+      runZone: 6
+      runLength: 10
+  - playedBalls:
+    - value: 4
+      runZone: 4
+      runLength: 5.11
+    - value: 2
+      runZone: 4
+      runLength: 6.04
+    - value: 3
+      runZone: 2
+      runLength: 5.01
+    - value: 6
+      runZone: 3
+      runLength: 10
+    - value: 1
+      runZone: 4
+      runLength: 6.69
+    - value: 6
+      runZone: 8
+      runLength: 10
+  - playedBalls:
+    - value: 4
+      runZone: 1
+      runLength: 10
+    - value: 2
+      runZone: 5
+      runLength: 6.04
+    - value: 3
+      runZone: 2
+      runLength: 5.01
+    - value: 6
+      runZone: 3
+      runLength: 10
+    - value: 1
+      runZone: 4
+      runLength: 6.69
+    - value: 6
+      runZone: 7
+      runLength: 10

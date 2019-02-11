@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GraphBar.cs">
+    <Files>
+      <File FileName="Assets/Scripts/OverItem.cs" Line="51" Column="14" />
+      <File FileName="Assets/Scripts/OversTable.cs" Line="25" Column="15" />
+      <File FileName="Assets/Scripts/Over.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ManhattonGraph.cs" Line="99" Column="26" />
+      <File FileName="Assets/Scripts/WagonWheelScript.cs" Line="83" Column="1" />
+      <File FileName="Assets/Scripts/Trigger.cs" Line="25" Column="51" />
+      <File FileName="Assets/Plugins/Pixelplacement/iTween/iTween.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GraphBar.cs" Line="43" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Volumes/BOOTCAMP/WagonWheel/Assets/Scripts/GraphBar.cs" line="39" column="1" />
+      <Breakpoint file="/Volumes/BOOTCAMP/WagonWheel/Assets/Scripts/GraphBar.cs" line="23" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
